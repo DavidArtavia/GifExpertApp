@@ -1,8 +1,8 @@
 //rafc
-import { useEffect, useState } from "react";
-import { AddCategory } from "./components/AddCategory";
-import { GifGrid } from "./components/GifGrid";
-import { getGif } from "./helper/getGifs";
+import { useState } from "react";
+import { AddCategory, GifGrid } from "./components";
+
+
 
 export const GifExpertApp = () => {
   const [categories, setCategories] = useState(['Naruto']);
