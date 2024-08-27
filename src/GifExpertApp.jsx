@@ -21,7 +21,7 @@ export const GifExpertApp = () => {
 
   return (
     <>
-      <h1>GifExpertApp</h1>
+      <h1>Create By David AA</h1>
       <AddCategory onNewCategory={onAddCategory} />
 
       {categories.map((category) => (
