@@ -16,4 +16,5 @@
    ```
 ## APP
 If you want to see the app running, go to the following link: [GifExpertApp](https://peaceful-kitten-063b8c.netlify.app/.
+
 Note: You can log in or sign up. If you don't have an account, you only need to sign up with an email and password.
