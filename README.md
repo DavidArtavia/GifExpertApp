@@ -8,7 +8,7 @@
    ```
 2. Navigate to the project directory:
    ```sh
-   cd consultorios-API
+   cd GifExpertApp
    ```
 3. Install the dependencies:
    ```sh
