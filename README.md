@@ -4,7 +4,7 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/DavidArtavia/consultorios-API.git
+   git clone https://github.com/DavidArtavia/GifExpertApp.git
    ```
 2. Navigate to the project directory:
    ```sh
